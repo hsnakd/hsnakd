@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   
 # <h3 align="left"> 👨‍💼 I'm Hasan 💻 ☕ 
  
-➡️ I have been in the IT industry more than 2 years as a SDET.</p>
-➡️ I am a detail-oriented and performance-oriented Software Automation Test Engineer with a proven track record of completing all tasks with full dedication.</p>
-➡️ I also work well in a close team while being resourceful, self-motivated, and best results-oriented, taking the initiative to solve problems and ensuring that mistakes are corrected.</p>
-➡️ I push myself to the limits to have exemplary planning skills with valuable transferable skills such as analyzing, paying attention to details, working towards goals, and achieving the best possible results.</p> 
-➡️ I am interested in using and learning new technologies and tools. In addition to these, the use of Selenium WebDriver, Jmeter, and Postman. I use Jira and Trello from project tracking programs.</p> 
-➡️ I am working on Java as a programming language. My learning continues.
+➡️ I started as a crowd Tester for Applause where I had a chance to test in different domains.</p>
+➡️ I learn automation and got software testing training from a well-known institution.</p>
+➡️ My goal is to build a successful career as a Software Tester</p>
+➡️ </p> 
+➡️ </p> 
+➡️ 
  
  
  
