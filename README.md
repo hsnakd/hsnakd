@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="uchar.jpeg" width="auto"> 
+<img src="hsnakd.jpeg" width="auto"> 
 
 ---
 # <h1 align="center">  Welcome 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 ---
   
-# <h3 align="left"> 👨‍💼 I'm Ibrahim 💻 ☕ 
+# <h3 align="left"> 👨‍💼 I'm Hasan 💻 ☕ 
  
 ➡️ I have been in the IT industry more than 2 years as a SDET.</p>
 ➡️ I am a detail-oriented and performance-oriented Software Automation Test Engineer with a proven track record of completing all tasks with full dedication.</p>
