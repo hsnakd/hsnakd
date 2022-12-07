@@ -45,7 +45,9 @@ Here are some ideas to get you started:
  
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@ibrahim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdet_ibrhm_ucar)](https://twitter.com/sdet_ibrhm_ucar) [![Linkedin Badge](https://img.shields.io/badge/-ibrahimucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrhmucar/)](https://www.linkedin.com/in/ibrhmucar/) [![Gmail Badge](https://img.shields.io/badge/-ibrhmucar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibrhmucar@gmail.com)](mailto:ibrhmucar@gmail.com)</p>
+[![Twitter Badge](https://img.shields.io/badge/-@ibrahim-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sdet_ibrhm_ucar)](https://twitter.com/sdet_ibrhm_ucar) 
+[![Linkedin Badge](https://img.shields.io/badge/-ibrahimucar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ibrhmucar/](https://www.linkedin.com/in/hasan-akdo%C4%9Fan-194629257/))](https://www.linkedin.com/in/ibrhmucar/) 
+[![Gmail Badge](https://img.shields.io/badge/-hsnakd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsnakd@gmail.com)](mailto:ibrhmucar@gmail.com)</p>
 
 
 ---
