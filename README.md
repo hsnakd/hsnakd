@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src= "https://solutionmarketing.files.wordpress.com/2013/05/agile.png?w=290&h=214" alt="java" width="40" height="40"/></a></code>
