@@ -116,4 +116,16 @@ Here are some ideas to get you started:
 
  
  
-<img width="100%" src="https://github.com/hsnakd/hsn/raw/master/skills.svg">
+
+**Github Stats:**
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&theme=dracula&count_private=true" />
+</p>
+
+<p align = "center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnakd&theme=dracula" />
+</p>
+
+<p align="center"> 
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnakd&theme=dracula" />
+</p>
