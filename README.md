@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 ---
 # <h1 align="center">  Welcome 
 
- <h2 align="center">
- <a href="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ)](https://git.io/typing-svg)"></a>
+ 
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ">
+</p>
   
 ---
   
