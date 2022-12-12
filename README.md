@@ -129,3 +129,8 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnakd&theme=dracula" />
 </p>
+
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="krishdevdb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="krishdevdb" /></p>
