@@ -1,4 +1,3 @@
-  <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
 
 <!--
 ### Hi there 👋
@@ -94,7 +93,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
        alt="snake" /></a>
 </div>
 
