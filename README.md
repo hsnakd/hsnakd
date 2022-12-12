@@ -105,5 +105,5 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
-
+  
+   [![Raihan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raihankhan&bg_color=000000&color=bdbdbd&line=2997ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
