@@ -84,9 +84,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="java" width="40" height="40"/></a></code>
- 
-
-<code><a target="_blank"><img src= "https://www.pngegg.com/en/png-ehbsi" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src= "https://solutionmarketing.files.wordpress.com/2013/05/agile.png?w=290&h=214" alt="java" width="40" height="40"/></a></code>
  
 
 ---
