@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
-       alt="snake" /></a>
+  </a>
 </div>
 
 ---
