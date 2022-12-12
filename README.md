@@ -46,8 +46,10 @@ Here are some ideas to get you started:
 
 <h2 align="center"> :pen: Contact With Me 
  
+<br/>
+<br/>
 
-<!-- Social icons section -->
+ <!-- Social icons section -->
 <p align="center">
   <a href="http://hsnakd.com"><img width="32px" alt="Web" title="LinkedIn" src="https://img.icons8.com/color/512/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
