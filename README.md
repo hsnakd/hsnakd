@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="java" width="40" height="40"/></a></code>
  
 
-<code><a target="_blank"><img src= https://www.gokhancanpolat.com/sites/default/files/pictures/Agile.png alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src= "https://www.pngegg.com/en/png-ehbsi" alt="java" width="40" height="40"/></a></code>
  
 
 ---
