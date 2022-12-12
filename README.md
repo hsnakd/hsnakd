@@ -1,4 +1,4 @@
-  <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
 
 <!--
 ### Hi there 👋
