@@ -105,5 +105,11 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies
 
-  
-   [![Raihan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raihankhan&bg_color=000000&color=bdbdbd&line=2997ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p>
+    <a href="https://github.com/raihankhan?tab=repositories">
+        <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=hsnakd&count_private=true&show_icons=true&theme=github_dark">
+    </a>
+   <a  href="https://github.com/hsnakd?tab=repositories">
+      <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=hsnakd&theme=github-dark-blue&fire=DD2727">
+   </a>
