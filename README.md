@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/hsnakd" alt="GitHub" title="GitHub"><img width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png"/></a>
+  <a href="https://github.com/hsnakd" alt="GitHub" title="GitHub"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://github.com/hsnakd" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
