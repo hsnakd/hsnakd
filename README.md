@@ -83,12 +83,9 @@ Here are some ideas to get you started:
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://brandslogos.com/wp-content/uploads/images/large/cucumber-logo.png alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://avatars.githubusercontent.com/u/874086?s=200&v=4 alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://www.skillrary.com/uploads/course/1232_medium.png alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://theqaconnection.files.wordpress.com/2020/12/untitled-design-23.png?w=840 alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="java" width="40" height="40"/></a></code>
+ 
+
 <code><a target="_blank"><img src= https://www.gokhancanpolat.com/sites/default/files/pictures/Agile.png alt="java" width="40" height="40"/></a></code>
  
 
