@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="http://hsnakd.com"><img width="32px" alt="Web" title="LinkedIn" src="https://img.icons8.com/color/512/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="[https://i.imgur.com/OXZM1L6.png](https://img.icons8.com/color/512/internet.png)"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
