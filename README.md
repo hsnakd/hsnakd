@@ -56,14 +56,13 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/ios-glyphs/512/github.png"/></a>
+  <a href="https://github.com/hsnakd" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/ios-glyphs/512/github.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://github.com/hsnakd" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="E-Mail" title="E-Mail" src="https://img.icons8.com/fluency/512/apple-mail.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
- <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+ 
 </p>
 
 <br/>
