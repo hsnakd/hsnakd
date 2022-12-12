@@ -1,3 +1,4 @@
+<img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 <!--
 ### Hi there 👋
 
