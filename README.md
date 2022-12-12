@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="http://hsnakd.com"><img width="32px" alt="Web" title="Web" src="https://www.flaticon.com/free-icon/linkedin_3536505?related_id=3536505&origin=search"/></a>
+  <a href="http://hsnakd.com"><img width="32px" alt="Web" title="Web" src="https://img.icons8.com/color/512/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
