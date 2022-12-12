@@ -136,8 +136,8 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="krishdevdb" /></p>
  
-
-[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsnakd&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### Github Activity Graph 📊
+[![hsnakd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsnakd&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
