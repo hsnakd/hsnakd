@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **hsnakd/hsnakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +18,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="hsnakd.jpeg" width="auto"> 
 
 ---
 # <h1 align="center">  Welcome 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   
 ---
   
+<img src="hsnakd.jpeg" width="auto"> 
 # <h3 align="left"> 👨‍💼 I'm Hasan 💻 ☕ 
  
 ➡️ I started as a crowd Tester for Applause where I had a chance to test in different domains.</p>
