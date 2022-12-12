@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # <h1 align="center">  Welcome 
 
  <h2 align="center">
- <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Engineer+in+Test;%20%20Java%20|%20OOP%20|%20Selenium%20|%20SQL%20|%20API%20;Always%20Learning%20New%20Things...&center=true&width=500&height=50](https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ)](https://git.io/typing-svg)"></a>
+ <a href="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ"></a>
   
 ---
   
