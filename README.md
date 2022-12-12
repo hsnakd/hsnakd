@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/hsnakd" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png"/></a>
+  <a href="https://github.com/hsnakd" alt="GitHub" title="GitHub"><img width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://github.com/hsnakd" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 <p align="center"> 
 <code><a href="http://java.com/" target="_blank"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a></code>
 <code><a href="http://selenium.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="css3" width="40" height="40"/></a></code>
+<code><a href="https://www.cucumber.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="css3" width="40" height="40"/></a></code>
  <code><a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src=https://cdn2.limonhost.net/wp-content/uploads/2021/07/Sql_data_base_with_logo.png alt="java" width="40" height="40"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://www.fujitsu.com/fts/Images/Oracle%20logo%20250x53_tcm21-29612.jpg alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://www.yazilimevi.com/images/virtuemart/product/JetBrains-IntelliJ-IDEA-Ultimate-2018-indir.png alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw=w240-h480 alt="java" width="40" height="40"/></a></code>
