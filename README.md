@@ -1,4 +1,8 @@
-<img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+<br><br>
+  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
+  <br><br><br><br>
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
+  <img height="45px" src="Images/Static/stats.png">
 <!--
 ### Hi there 👋
 
