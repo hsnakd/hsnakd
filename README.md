@@ -75,7 +75,7 @@ Here are some ideas to get you started:
  
 <p align="center"> 
 <code><a target="_blank"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a></code>
-<code><a href="https://www.selenium.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
+<code><a href="https://commons.wikimedia.org/wiki/File:Selenium_Logo.png" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
 <code><a href="https://www.postman.com/" target="_blank"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="css3" width="40" height="40"/></a></code>
 &nbsp;<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src=https://cdn2.limonhost.net/wp-content/uploads/2021/07/Sql_data_base_with_logo.png alt="java" width="40" height="40"/></a></code>
