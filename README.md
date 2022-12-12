@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.cucumber.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="css3" width="40" height="40"/></a></code>
  <code><a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="css3" width="40" height="40"/></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-github-community-for-software-building-and-testing-online-logo-color-tal-revivo.png" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="java" width="40" height="40"/></a></code>
