@@ -109,16 +109,16 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=hsnakd&count_private=true&show_icons=true&theme=github_dark">
+        <img alt="HsnAkd's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=hsnakd&count_private=true&show_icons=true&theme=github_dark">
     </a>
    <a  href="https://github.com/hsnakd?tab=repositories">
-      <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=hsnakd&theme=github-dark-blue&fire=DD2727">
+      <img alt="HsnAkd's GitHub stats"  width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=hsnakd&theme=github-dark-blue&fire=DD2727">
    </a>
 
  
  
 
-**Github Stats:**
+**GitHub Stats:**
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&theme=dracula&count_private=true" />
 </p>
@@ -132,9 +132,9 @@ Here are some ideas to get you started:
 </p>
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="krishdevdb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="HsnAkd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="krishdevdb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="HsnAkd" /></p>
  
  
  
