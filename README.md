@@ -98,8 +98,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-
+ 
+ 
+<!--
 ## 🔧 Technologies
 
 
@@ -132,7 +133,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en" alt="HsnAkd" /></p>
  
- 
+ -->
  
 ## 📈 Stats :
 <p align="center">
