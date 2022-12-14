@@ -54,13 +54,13 @@ Here are some ideas to get you started:
  <!-- Social icons section -->
 <p align="center">
   
- <a href="http://hsnakd.com"><img width="32px" alt="Web" title="LinkedIn" src="https://img.icons8.com/color/512/linkedin.png"/></a>
+ <a href="http://hsnakd.com"><img width="32px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="https://img.icons8.com/color/512/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSite" title="WebSite" src="https://img.icons8.com/color/512/internet.png"/></a>
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/hsnakd" alt="GitHub" title="GitHub"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+  <a href="https://github.com/hsnakd" alt="GitHubHsnAkd" title="GitHubHsnAkd"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://github.com/hsnakd" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
+   <a href="https://discord.com/users/969499659640901672" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="E-Mail" title="E-Mail" src="https://img.icons8.com/fluency/512/apple-mail.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
