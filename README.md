@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  <!-- Social icons section -->
 <p align="center">
   
- <a href="http://hakdogan.com"><img width="32px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="https://img.icons8.com/color/512/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/hasanakdogan1/"><img width="32px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="https://img.icons8.com/color/512/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://hakdogan.com"><img width="32px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -92,13 +92,13 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="">
   <img alt="github contribution snake animation" src="https://github.com/hsnakd/hsnakd/blob/main/snake.svg">
   </a>
 </div>
 
 ---
- 
+<!-- <a href="https://1999azzar.github.io/1999AZZAR/">   -->
  
 <!--
 ## 🔧 Technologies
