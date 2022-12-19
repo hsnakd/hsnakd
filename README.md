@@ -34,14 +34,15 @@ Here are some ideas to get you started:
 <img src="https://github.com/hsnakd/hsnakd/blob/main/Logo.jpg" width="auto"> 
  <h3 align="left"> 👨‍💼 I'm Hasan 💻 ☕ 
  
-➡️ I started as a crowd Tester for Applause where I had a chance to test in different domains.</p>
-➡️ I learn automation and got software testing training from a well-known institution.</p>
-➡️ My goal is to build a successful career as a Software Tester</p>
-➡️ </p> 
-➡️ </p> 
-➡️ 
- 
- 
+➡️ Hands-on experience with UI/DB/API test applications tools (manual and automation) and methods with Software Development Life Cycle (SDLC) processes. </p>
+➡️ Experienced the Agile methodology and participated in all the Scrum ceremonies.</p>
+➡️ Excellent knowledge of test automation with Selenium WebDriver, Cucumber BDD, TestNG DDT, JUnit, JDBC, Rest-Assured, and Apache POI.</p>
+➡️ Implemented test cases with test automation frameworks like Cucumber BDD / TestNG DDT for UI/DB/API automation testing.</p> 
+➡️ Operated programming language Java.</p> 
+➡️ Used building tool Maven library. </p> 
+➡️ Good analytical and communication skills, self-motivated, productive, quick learner, cross-functional team member, and easily adaptable to new technologies and environments.	</p> 
+
+
  
  
 ---
