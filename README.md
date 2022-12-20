@@ -55,17 +55,19 @@ Here are some ideas to get you started:
  <!-- Social icons section -->
 <p align="center">
   
- <a href="https://www.linkedin.com/in/hasanakdogan1/"><img width="64px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="https://img.icons8.com/color/512/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/hasanakdogan1/"><img width="64px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="http://www.hakdogan.com/images/team/21.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://hakdogan.com"><img width="64px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="https://img.icons8.com/color/512/internet.png"/></a>
+  <a href="http://hakdogan.com"><img width="64px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="http://www.hakdogan.com/images/team/22.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://discord.com/users/969499659640901672" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="64px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="64px" alt="E-Mail" title="E-Mail" src="https://img.icons8.com/fluency/512/apple-mail.png"></a>
+
+  <a href="https://dev.to/denvercoder1"><img width="64px" alt="E-Mail" title="E-Mail" src="http://www.hakdogan.com/images/team/23.jpg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <!--
    <a href="https://github.com/hsnakd" alt="GitHubHsnAkd" title="GitHubHsnAkd"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+
+   <a href="https://discord.com/users/969499659640901672" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="64px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 -->
 </p>
 
