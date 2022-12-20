@@ -79,16 +79,28 @@ Here are some ideas to get you started:
  
 <p align="center"> 
 <code><a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="40" height="40"/></a></code>
-<code><a href="http://selenium.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://www.cucumber.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="css3" width="40" height="40"/></a></code>
- <code><a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="java" width="40" height="40"/></a></code>
-<code><a target="_blank"><img src= "https://solutionmarketing.files.wordpress.com/2013/05/agile.png?w=290&h=214" alt="java" width="40" height="40"/></a></code>
+<code><a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="css3" width="40" height="40"/></a></code>
+<code><a href="https://www.cucumber.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/3.jpg" alt="css3" width="40" height="40"/></a></code>
+ <code><a href="https://www.postman.com/" target="_blank"> <img src="4" alt="css3" width="40" height="40"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/5.jpg" alt="git" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="http://www.hakdogan.com/images/team/6.jpg" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="http://www.hakdogan.com/images/team/7.jpg" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="http://www.hakdogan.com/images/team/8.jpg" alt="java" width="40" height="40"/></a></code>
+<code><a target="_blank"><img src="http://www.hakdogan.com/images/team/9.jpg" alt="java" width="40" height="40"/></a></code>
+
+ <!--
+ "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" 
+ "https://cdn.worldvectorlogo.com/logos/cucumber.svg"
+ "https://cdn.worldvectorlogo.com/logos/postman.svg"
+ "https://cdn.worldvectorlogo.com/logos/git-icon.svg"
+ "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+ "https://cdn.worldvectorlogo.com/logos/jira-3.svg"
+ "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"
+ "https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg"
+ "https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" 
+ "https://solutionmarketing.files.wordpress.com/2013/05/agile.png?w=290&h=214"
+ 
+ -->
  
 
 ---
