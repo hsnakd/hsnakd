@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ---
-<h2 align="center">  😄 Welcome </p>
+<h2 align="center">  💻 Welcome </p>
   
 
  ---
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
   
 <img src="https://github.com/hsnakd/hsnakd/blob/main/Logo.jpg" width="auto"> 
- <h3 align="left"> 👨‍💼💻
+<h2 align="center"> 👨‍ About Me </p>
  
 ➡️ Hands-on experience with UI/DB/API test applications tools (manual and automation) and methods with Software Development Life Cycle (SDLC) processes. </p>
 ➡️ Experienced the Agile methodology and participated in all the Scrum ceremonies.</p>
