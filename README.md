@@ -78,11 +78,11 @@ Here are some ideas to get you started:
 <h2 align="center"> 🧰  Languages and Tools </p>
  
 <p align="center"> 
-<a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="45" height="55"/></a>
-<a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="selenium" width="60" height="75"/></a>
+<a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="90" height="110"/></a>
+<a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="selenium" width="90" height="110"/></a>
 <a href="https://www.cucumber.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/3.jpg" alt="cucumber" width="90" height="110"/></a>
-<a href="https://www.postman.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/4.jpg" alt="postman" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/5.jpg" alt="git" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/4.jpg" alt="postman" width="90" height="110"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/5.jpg" alt="git" width="90" height="110"/></a>
 <a target="_blank"><img src="http://www.hakdogan.com/images/team/6.jpg" alt="java" width="40" height="40"/></a>
 <a target="_blank"><img src="http://www.hakdogan.com/images/team/7.jpg" alt="java" width="40" height="40"/></a>
 <a target="_blank"><img src="http://www.hakdogan.com/images/team/8.jpg" alt="java" width="40" height="40"/></a>
