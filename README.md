@@ -166,9 +166,9 @@ Here are some ideas to get you started:
  ---
  
  
+  <h2 align="center"> 📊 Github Activity Graph </p>
  
- 
-#### Github Activity Graph 📊
+
 [![hsnakd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hsnakd&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
