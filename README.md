@@ -174,8 +174,9 @@ Here are some ideas to get you started:
 <br>
 
    
-   <details> 
-   <h2 align="center"> :pen: Contact With Me 
+   <details <h2 align="center"> :pen: Contact With Me > 
+    
+
     <br />
     <a href="#">
       <img align="center" src="" />
