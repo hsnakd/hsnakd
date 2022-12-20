@@ -79,9 +79,9 @@ Here are some ideas to get you started:
  
 <p align="center"> 
 <code><a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="40" height="40"/></a></code>
-<code><a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://www.cucumber.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/3.jpg" alt="css3" width="40" height="40"/></a></code>
- <code><a href="https://www.postman.com/" target="_blank"> <img src="4" alt="css3" width="40" height="40"/></a></code>
+<code><a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="selenium" width="40" height="40"/></a></code>
+<code><a href="https://www.cucumber.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/3.jpg" alt="cucumber" width="40" height="40"/></a></code>
+ <code><a href="https://www.postman.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/4.jpg" alt="postman" width="40" height="40"/></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/5.jpg" alt="git" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="http://www.hakdogan.com/images/team/6.jpg" alt="java" width="40" height="40"/></a></code>
 <code><a target="_blank"><img src="http://www.hakdogan.com/images/team/7.jpg" alt="java" width="40" height="40"/></a></code>
