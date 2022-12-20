@@ -54,7 +54,9 @@ Here are some ideas to get you started:
 
  <!-- Social icons section -->
 <p align="center">
-  
+  <a href="https://www.linkedin.com/in/hasanakdogan1/" target="_blank"><img src="http://www.hakdogan.com/images/team/21.jpg" alt="java" width="90" height="110"/></a>
+ 
+ 
  <a href="https://www.linkedin.com/in/hasanakdogan1/"><img width="64px" alt="LinkedInHsnAkd" title="LinkedInHsnAkd" src="http://www.hakdogan.com/images/team/21.jpg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://hakdogan.com"><img width="64px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="http://www.hakdogan.com/images/team/22.jpg"/></a>
