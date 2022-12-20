@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 🧰  Languages and Tools </p>
  
 <p align="center"> 
-<code><a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="40" height="40"/></a></code>
+<a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="40" height="40"/></a>
 <code><a href="http://selenium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/2.jpg" alt="selenium" width="40" height="40"/></a></code>
 <code><a href="https://www.cucumber.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/3.jpg" alt="cucumber" width="40" height="40"/></a></code>
  <code><a href="https://www.postman.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/4.jpg" alt="postman" width="40" height="40"/></a></code>
