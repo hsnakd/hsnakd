@@ -59,13 +59,14 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://hakdogan.com"><img width="32px" alt="WebSiteHsnAkd" title="WebSiteHsnAkd" src="https://img.icons8.com/color/512/internet.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/hsnakd" alt="GitHubHsnAkd" title="GitHubHsnAkd"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://discord.com/users/969499659640901672" alt="DiscordHsnAkd" title="DiscordHsnAkd"><img width="32px" src="https://img.icons8.com/external-justicon-flat-justicon/512/external-discord-social-media-justicon-flat-justicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="E-Mail" title="E-Mail" src="https://img.icons8.com/fluency/512/apple-mail.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- 
+ <!--
+   <a href="https://github.com/hsnakd" alt="GitHubHsnAkd" title="GitHubHsnAkd"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
+-->
 </p>
 
 <br/>
@@ -77,7 +78,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 🧰  Languages and Tools </p>
  
 <p align="center"> 
-<code><a href="http://java.com/" target="_blank"><img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="java" width="40" height="40"/></a></code>
+<code><a href="http://java.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/1.jpg" alt="java" width="40" height="40"/></a></code>
 <code><a href="http://selenium.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="css3" width="40" height="40"/></a></code>
 <code><a href="https://www.cucumber.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="css3" width="40" height="40"/></a></code>
  <code><a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="css3" width="40" height="40"/></a></code>
