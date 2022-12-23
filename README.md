@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 ---
   
-<img src="https://github.com/hsnakd/hsnakd/blob/main/Logo.jpg" width="auto"> 
+<img src="https://github.com/hsnakd/hsnakd/blob/main/Banner.jpg" width="auto"> 
 <h2 align="center"> 👨🏻‍💻 About Me </p>
 
 ---
