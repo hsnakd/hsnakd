@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <p align="center"> 
 <a href="https://www.linkedin.com/in/hasanakdogan1/" target="_blank"> <img src="http://www.hakdogan.com/images/team/21.jpg" alt="linkedin" width="90" height="110"/></a>
 <a href="http://hakdogan.com" target="_blank"> <img src="http://www.hakdogan.com/images/team/22.jpg" alt="web" width="90" height="110"/></a>
-<a href="https://hakdogan26.medium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/23.jpg" alt="cucumber" width="90" height="110"/></a>
+<a href="https://hakdogan26.medium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/22.jpg" alt="cucumber" width="90" height="110"/></a>
 <a href="mailto:hakdogan@live.com" target="_blank"> <img src="http://www.hakdogan.com/images/team/23.jpg" alt="cucumber" width="90" height="110"/></a>
  
 
