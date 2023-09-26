@@ -28,7 +28,8 @@ Here are some ideas to get you started:
  ---
  
 <p align="center">
- <a href="[https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Engineer+in+Test;%20%20Java%20|%20OOP%20|%20Selenium%20|%20SQL%20|%20API%20;Always%20Learning%20New%20Things...&center=true&width=500&height=50](https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured)"></a>
+ <a href="[https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com lines=Software+Development+Engineer+in+Test;%20%20Java%20|%20OOP%20|%20Selenium%20|%20SQL%20|%20API%20;Always%20Learning%20New%20Things...&center=true&width=500&height=50](https://readme-typing-svg.demolab.com? font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured)"></a>
 
 </p>
 
