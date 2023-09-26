@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=60&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured)](https://git.io/typing-svg)
   
 </p>
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=60&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured)](https://git.io/typing-svg)
 ---
   
 <img src="https://github.com/hsnakd/hsnakd/blob/main/Banner.jpg" width="auto"> 
