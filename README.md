@@ -28,7 +28,9 @@ Here are some ideas to get you started:
  ---
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ">
+  <img src="https://readme-typing-svg.demolab.com?
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=60&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured)](https://git.io/typing-svg)
+  
 </p>
   
 ---
