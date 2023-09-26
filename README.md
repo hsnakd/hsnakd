@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  ---
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ+%7C+PyCharm+%7C+VS Code+%7C+Eclipse">
+  <img src="https://readme-typing-svg.demolab.com?font=Java&size=16&pause=500&color=000000&background=BD0000&center=true&vCenter=true&width=450&lines=Java+%7C+Selenium+%7C+Cucumber+%7C+Postman;Git%2FGitHub+%7C+Jira+%7C+Jenkins+%7C+SQL+%7C+IntelliJ">
 </p>
   
 ---
