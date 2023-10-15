@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<p align="center">
+ <a href="[https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Java+-+Python+-+JavaScript;Selenium+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured"></a>
+
+</p>
+
+
+
   
 <img src="https://github.com/hsnakd/hsnakd/blob/main/Banner.jpg" width="auto"> 
 <h2 align="center"> 👨🏻‍💻 About Me </p>
