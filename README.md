@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <a href="https://www.javascript.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/JS.jpg" alt="js" width="90" height="110"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="http://www.hakdogan.com/images/team/Cypress.jpg" alt="java" width="90" height="110"/></a>
 <a href="https://www.python.org/"  target="_blank"><img src="http://www.hakdogan.com/images/team/Python.jpg" alt="java" width="90" height="110"/></a>
-<a href="" target="_blank"><img src="http://www.hakdogan.com/images/team/8.jpg" alt="java" width="90" height="110"/></a>
+<a href="https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e" target="_blank"><img src="http://www.hakdogan.com/images/team/ISTQB.jpg" alt="java" width="90" height="110"/></a>
 <a href="" target="_blank"><img src="http://www.hakdogan.com/images/team/9.jpg" alt="java" width="90" height="110"/></a>
 
  <!--
