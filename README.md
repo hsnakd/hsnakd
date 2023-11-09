@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 <a href="https://www.javascript.com/" target="_blank"><img src="http://www.hakdogan.com/images/team/JS.jpg" alt="js" width="90" height="110"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="http://www.hakdogan.com/images/team/6.jpg" alt="java" width="90" height="110"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="http://www.hakdogan.com/images/team/Cypress.jpg" alt="java" width="90" height="110"/></a>
 <a href="https://www.oracle.com/"  target="_blank"><img src="http://www.hakdogan.com/images/team/7.jpg" alt="java" width="90" height="110"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img src="http://www.hakdogan.com/images/team/8.jpg" alt="java" width="90" height="110"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="http://www.hakdogan.com/images/team/9.jpg" alt="java" width="90" height="110"/></a>
