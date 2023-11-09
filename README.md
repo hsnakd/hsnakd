@@ -46,6 +46,38 @@ Here are some ideas to get you started:
  
  
  <h2 align="left"> </p>
+   Earned a Bachelor’s degree in Industrial Engineering, attaining a high
+standard of academic excellence.
+ Achieved ISTQB Foundation Level Certification, demonstrating
+proficiency in software testing principles and practices.
+ Showcased hands‑on experience with UI/DB/API Test applications tools,
+encompassing both Manual and Automated Testing, and adeptly
+navigating Software Development Life Cycle (SDLC) processes.
+ Initiated and actively participated in the Agile methodology,
+demonstrating a proactive approach to project management, and
+engaged in all Scrum Ceremonies for streamlined collaboration.
+ Excelled in Test Automation, reaching proficiency with Selenium
+WebDriver, Cucumber BDD, TestNG DDT, JUnit, JDBC, REST Assured, and
+Apache POI for comprehensive UI/DB/API Automation Testing.
+ Implemented Test Cases with precision, leveraging Test Automation
+Frameworks such as Cucumber BDD and TestNG DDT to ensure robust
+UI/DB/API Automation Testing.
+ Operated seamlessly in the Java programming language, showcasing
+proficiency in coding and script development.
+ Utilized the Maven library as a building tool, demonstrating competence
+in managing dependencies and project automation.
+ Proficient in Python programming language.
+ Extensive knowledge of mobile testing using Appium.
+ Familiarity with Cypress and JScript for web application testing.
+ Addressed challenges with analytical intelligence and communicated
+effectively, contributing to a collaborative and results‑oriented Quality
+Assurance environment.
+ Demonstrated initiative by being a self‑motivated, productive, and quick
+learner, functioning seamlessly as a cross‑functional team member.
+ Adapted easily to new technologies and environments, exceeding
+expectations and showcasing flexibility and a commitment to staying
+ahead in the dynamic field of software development and testing.
+   
 ➡️ Hands-on experience with UI/DB/API test applications tools (manual and automation) and methods with Software Development Life Cycle (SDLC) processes. </p>
 ➡️ Experienced the Agile methodology and participated in all the Scrum ceremonies.</p>
 ➡️ Excellent knowledge of test automation with Selenium WebDriver, Cucumber BDD, TestNG DDT, JUnit, JDBC, Rest-Assured, and Apache POI.</p>
