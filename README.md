@@ -60,14 +60,7 @@ Here are some ideas to get you started:
 ➡️ Addressed challenges with analytical intelligence and communicated effectively, contributing to a collaborative and results‑oriented Quality Assurance environment.	</p> 
 ➡️ Demonstrated initiative by being a self‑motivated, productive, and quick learner, functioning seamlessly as a cross‑functional team member.	</p> 
 ➡️ Adapted easily to new technologies and environments, exceeding expectations and showcasing flexibility and a commitment to staying ahead in the dynamic field of software development and testing.	</p> 
-   
-➡️ Hands-on experience with UI/DB/API test applications tools (manual and automation) and methods with Software Development Life Cycle (SDLC) processes. </p>
-➡️ Experienced the Agile methodology and participated in all the Scrum ceremonies.</p>
-➡️ Excellent knowledge of test automation with Selenium WebDriver, Cucumber BDD, TestNG DDT, JUnit, JDBC, Rest-Assured, and Apache POI.</p>
-➡️ Implemented test cases with test automation frameworks like Cucumber BDD / TestNG DDT for UI/DB/API automation testing.</p> 
-➡️ Operated programming language Java.</p> 
-➡️ Used building tool Maven library. </p> 
-➡️ Good analytical and communication skills, self-motivated, productive, quick learner, cross-functional team member, and easily adaptable to new technologies and environments.	</p> 
+
 
 
  
