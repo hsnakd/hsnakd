@@ -67,7 +67,7 @@ Here are some ideas to get you started:
  
 ---
 
-<h2 align="center"> :pen: Contact With Me 
+<h2 align="center"> :pen: Follow Me 
  
 <br/>
 <br/>
