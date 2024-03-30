@@ -76,9 +76,13 @@ Here are some ideas to get you started:
 <p align="center"> 
 <a href="https://www.linkedin.com/in/hasanakdogan1/" target="_blank"> <img src="http://www.hakdogan.com/images/team/21.jpg" alt="linkedin" width="90" height="110"/></a>
 <a href="http://hakdogan.com" target="_blank"> <img src="http://www.hakdogan.com/images/team/22.jpg" alt="web" width="90" height="110"/></a>
-<a href="https://hakdogan26.medium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/24.jpg" alt="cucumber" width="90" height="110"/></a>
+<a href="https://hakdogan26.medium.com/" target="_blank"> <img src="http://www.hakdogan.com/images/team/24.jpg" alt="medium" width="90" height="110"/></a>
+<a href="https://twitter.com/qa_bughunter" target="_blank"> <img src="http://www.hakdogan.com/images/team/24.jpg" alt="twitter" width="90" height="110"/></a>
+<a href="https://www.instagram.com/qa_bughunter/" target="_blank"> <img src="http://www.hakdogan.com/images/team/24.jpg" alt="instagram" width="90" height="110"/></a>
+
 <a href="mailto:hakdogan@live.com" target="_blank"> <img src="http://www.hakdogan.com/images/team/23.jpg" alt="cucumber" width="90" height="110"/></a>
- 
+ <a href="https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e" target="_blank"> <img src="http://www.hakdogan.com/images/team/24.jpg" alt="instagram" width="90" height="110"/></a>
+
 
  <!--
    <a href="https://github.com/hsnakd" alt="GitHubHsnAkd" title="GitHubHsnAkd"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></a>
