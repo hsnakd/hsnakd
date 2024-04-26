@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 <p align="center">
  <a href="[https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Java+-+Python+-+JavaScript;Appium+-+Selenium+-+Playwright+-+Cucumber+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured"></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Java+-+Python+-+JavaScript;Appium+-+Selenium+-+Cucumber+-+;Playwright+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured"></a>
 
 </p>
 
