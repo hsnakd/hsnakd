@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://www.hakdogan.com/images/team/PC.jpg" alt="java" width="90" height="110"/></a>
 
 <br><br><br>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.hakdogan.com/images/team/TS.jpg" alt="js" width="90" height="110"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.hakdogan.com/images/team/TS.jpg" alt="ts" width="90" height="110"/></a>
  <!--
  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" 
  "https://cdn.worldvectorlogo.com/logos/cucumber.svg"
