@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 <p align="center">
  <a href="[https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Java+-+Python+-+JavaScript;Appium+-+Selenium+-+Cucumber;Playwright+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured"></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Java+-+Python+-+JavaScript+-+TypeScript;Appium+-+Selenium+-+Cucumber;Playwright+-+Cypress;IntelliJ+-+PyCharm+-+VSCode+-+Eclipse;Git+-+GitHub+-+Jenkins+-+AWS+-+Jira;SQL+Developer+-+JDBC;Postman+-+RestAssured"></a>
 
 </p>
 
@@ -120,6 +120,8 @@ Here are some ideas to get you started:
 <a href="https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e" target="_blank"><img src="https://www.hakdogan.com/images/team/ISTQB.jpg" alt="java" width="90" height="110"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://www.hakdogan.com/images/team/PC.jpg" alt="java" width="90" height="110"/></a>
 
+<br><br><br>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.hakdogan.com/images/team/TS.jpg" alt="js" width="90" height="110"/></a>
  <!--
  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" 
  "https://cdn.worldvectorlogo.com/logos/cucumber.svg"
