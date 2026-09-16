@@ -2,29 +2,30 @@
 
 ### QA Automation Engineer | ISTQB® Foundation Level Certified
 
-I’m a QA Automation Engineer focused on building reliable and maintainable
-test automation solutions for modern web applications.
+I’m a QA Automation Engineer with experience in both manual QA and test automation for web applications.
 
-My current automation stack is **Playwright + TypeScript**, with previous
-hands-on experience using **Selenium WebDriver + Java** and **Cucumber BDD**.
+My current automation stack is **Playwright + TypeScript**, including building a Playwright automation framework from scratch using the **Page Object Model**.
 
-I work across UI test automation, manual and functional testing, regression
-and exploratory testing, API testing and automation, database validation,
-defect investigation, and CI/CD.
+I also have previous hands-on experience maintaining and extending automation suites with **Selenium WebDriver + Java**, **Cucumber BDD**, and **JUnit**.
+
+My experience includes functional, regression, exploratory, UI, API, and database testing, along with defect investigation, test analysis, and Jenkins-based test execution.
 
 ---
 
 ## 🧪 QA & Testing
 
-- UI Test Automation
-- End-to-End Testing
-- Manual & Functional Testing
-- Smoke & Regression Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
 - Exploratory Testing
+- End-to-End Testing
+- UI Test Automation
 - API Testing & Automation
 - Database Validation
 - Defect Investigation & Reporting
-- Test Analysis & Requirement Clarification
+- Test Scenario & Test Case Design
+- Requirement Analysis & Clarification
+- Smoke & Regression Test Execution
 
 ---
 
@@ -33,23 +34,16 @@ defect investigation, and CI/CD.
 ### Programming Languages
 `TypeScript` `Java` `JavaScript`
 
-### Testing Tools
-`Playwright` `Selenium WebDriver`
+### Test Automation & Frameworks
+`Playwright` `Selenium WebDriver`  
+`Page Object Model` `Cucumber BDD` `JUnit`
 
-### Automation Frameworks & Design
-`Page Object Model` `Cucumber BDD`
+### API & Database Testing
+`Postman` `RestAssured`  
+`SQL` `PostgreSQL` `JDBC`
 
-### API Testing & Automation
-`Postman` `RestAssured`
-
-### Database
-`PostgreSQL`
-
-### CI/CD
-`Jenkins`
-
-### Build Tools
-`Maven` `npm`
+### CI/CD & Build Tools
+`Jenkins` `Maven` `npm`
 
 ### Version Control
 `Git` `GitHub` `GitLab`
@@ -57,11 +51,16 @@ defect investigation, and CI/CD.
 ### Project & Test Management
 `Jira` `Xray`
 
-### IDEs
+### IDEs & Tools
 `Cursor` `VS Code` `IntelliJ IDEA`
 
 ### Methodologies
 `SDLC` `STLC` `Agile Scrum`
+
+### AI-Assisted QA
+`ChatGPT` `Cursor`
+
+Test design / debugging / automation support
 
 ---
 
@@ -69,8 +68,7 @@ defect investigation, and CI/CD.
 
 ### 🎭 Playwright Test Automation
 
-A scalable UI test automation framework built with **Playwright + TypeScript**
-and designed using the **Page Object Model**.
+A **Playwright + TypeScript** test automation framework built from scratch using the **Page Object Model**.
 
 Focus areas include:
 
@@ -78,42 +76,51 @@ Focus areas include:
 - Reusable page objects and test components
 - Smoke and Regression test suites
 - Multi-environment test execution
-- CI/CD integration with Jenkins
+- Jenkins-based automated test execution
 - Test debugging and maintenance
+- Reusable test utilities
+- Defect investigation support
+
+> Add your repository link here:
+> **[View Project on GitHub](YOUR_PLAYWRIGHT_REPO_LINK)**
 
 ---
 
 ### 🧪 QA Practice Lab
 
-A hands-on testing environment created for practicing software testing
-and test automation scenarios.
+A hands-on testing environment created for practicing software testing and test automation scenarios.
 
 Focus areas include:
 
 - UI testing scenarios
 - Functional testing
-- Test automation practice
 - Form and input validation
 - Buttons, radio buttons, and select components
 - Alerts and keyboard interactions
 - Defect identification and analysis
+- Manual testing practice
+- Test automation practice
+
+**[Visit QA Practice Lab](https://lab.hakdogan.com)**
 
 ---
 
 ### ☕ Selenium Test Automation
 
-UI test automation project using **Selenium WebDriver + Java** with
-**Cucumber BDD** and the **Page Object Model**.
+UI test automation project using **Selenium WebDriver + Java**, **Cucumber BDD**, **JUnit**, and the **Page Object Model**.
 
 Focus areas include:
 
 - UI test automation
 - Cucumber BDD scenarios
 - Page Object Model
+- Functional and Regression testing
 - JUnit test execution
 - Maven dependency management
-- Smoke and Regression testing
-- Jenkins CI/CD integration
+- Jenkins-based Smoke and Regression test execution
+
+> Add your repository link here:
+> **[View Project on GitHub](YOUR_SELENIUM_REPO_LINK)**
 
 ---
 
@@ -135,29 +142,13 @@ Focus areas include:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
   <img
-    width="48%"
+    width="55%"
     src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&theme=tokyonight"
     alt="Hasan's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hsnakd&theme=tokyonight"
-    alt="Hasan's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnakd&layout=compact&theme=tokyonight"
-    alt="Hasan's Top Languages"
   />
 </p>
 
