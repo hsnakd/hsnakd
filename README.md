@@ -1,159 +1,193 @@
-# Hi, I'm Hasan 👋
+<div align="center">
 
-### QA Automation Engineer | ISTQB® Foundation Level Certified
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hasan%20Akdogan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%2B%20TypeScript&descAlignY=60&descSize=18" width="100%" />
 
-I’m a QA Automation Engineer with experience in both manual QA and test automation for web applications.
+<a href="https://www.hakdogan.com">
+  <img src="https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://lab.hakdogan.com">
+  <img src="https://img.shields.io/badge/QA%20Lab-Visit%20Lab-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hasanakdogan1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@hakdogan1">
+  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
-My current automation stack is **Playwright + TypeScript**, including building a Playwright automation framework from scratch using the **Page Object Model**.
-
-I also have previous hands-on experience maintaining and extending automation suites with **Selenium WebDriver + Java**, **Cucumber BDD**, and **JUnit**.
-
-My experience includes functional, regression, exploratory, UI, API, and database testing, along with defect investigation, test analysis, and Jenkins-based test execution.
-
----
-
-## 🧪 QA & Testing
-
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Exploratory Testing
-- End-to-End Testing
-- UI Test Automation
-- API Testing & Automation
-- Database Validation
-- Defect Investigation & Reporting
-- Test Scenario & Test Case Design
-- Requirement Analysis & Clarification
-- Smoke & Regression Test Execution
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 👋 About Me
 
-### Programming Languages
-`TypeScript` `Java` `JavaScript`
+I am a **QA Automation Engineer** focused on building reliable, maintainable, and scalable test automation systems.
 
-### Test Automation & Frameworks
-`Playwright` `Selenium WebDriver`  
-`Page Object Model` `Cucumber BDD` `JUnit`
+My primary stack is:
 
-### API & Database Testing
-`Postman` `RestAssured`  
-`SQL` `PostgreSQL` `JDBC`
+- **Playwright**
+- **TypeScript**
+- **Page Object Model**
+- **API Testing**
+- **SQL & Database Validation**
+- **Jenkins CI/CD**
 
-### CI/CD & Build Tools
-`Jenkins` `Maven` `npm`
+I enjoy finding the scenarios that are easy to miss, investigating defects, improving test coverage, and helping teams release better products with more confidence.
 
-### Version Control
-`Git` `GitHub` `GitLab`
+```text
+Quality is not only about finding bugs.
+It is about preventing them from reaching users.
+```
 
-### Project & Test Management
-`Jira` `Xray`
+---
 
-### IDEs & Tools
-`Cursor` `VS Code` `IntelliJ IDEA`
+## 🧪 What I Do
+
+- Build end-to-end UI automation frameworks
+- Design reusable Page Objects and test utilities
+- Create smoke and regression test suites
+- Perform functional and exploratory testing
+- Validate REST APIs and database behavior
+- Investigate defects using logs, DevTools, and API responses
+- Improve test coverage and test maintainability
+- Support Agile teams throughout the SDLC
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,playwright,selenium,postman,postgres,jenkins,git,github,gitlab,jira,vscode,idea&perline=7" />
+
+</div>
+
+### Automation
+
+`Playwright` `Selenium WebDriver` `Page Object Model` `Cucumber BDD` `JUnit`
+
+### API & Database
+
+`Postman` `REST Assured` `SQL` `PostgreSQL` `JDBC`
+
+### CI/CD & Build
+
+`Jenkins` `Maven` `npm` `GitHub Actions`
 
 ### Methodologies
-`SDLC` `STLC` `Agile Scrum`
+
+`SDLC` `STLC` `Agile Scrum` `Functional Testing` `Regression Testing`
 
 ### AI-Assisted QA
-`ChatGPT` `Cursor`
 
-Test design / debugging / automation support
+`ChatGPT` `Cursor` `AI-Assisted Test Design` `AI-Assisted Debugging`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🎭 Playwright Test Automation
+### 🎭 Playwright Automation
 
-A **Playwright + TypeScript** test automation framework built from scratch using the **Page Object Model**.
+A modern Playwright + TypeScript automation approach focused on:
 
-Focus areas include:
+- End-to-end UI testing
+- Reusable Page Objects
+- Stable selectors
+- Smoke and regression suites
+- Multi-environment execution
+- Debugging and trace analysis
+- Jenkins-based execution
 
-- End-to-end UI automation
-- Reusable page objects and test components
-- Smoke and Regression test suites
-- Multi-environment test execution
-- Jenkins-based automated test execution
-- Test debugging and maintenance
-- Reusable test utilities
-- Defect investigation support
-
-> Add your repository link here:
-> **[View Project on GitHub](YOUR_PLAYWRIGHT_REPO_LINK)**
+[Explore my GitHub profile →](https://github.com/hakdogan1)
 
 ---
 
 ### 🧪 QA Practice Lab
 
-A hands-on testing environment created for practicing software testing and test automation scenarios.
+A hands-on environment for practicing realistic QA scenarios:
 
-Focus areas include:
-
-- UI testing scenarios
-- Functional testing
+- Registration and login flows
 - Form and input validation
-- Buttons, radio buttons, and select components
+- API mock testing
+- Dashboard workflows
 - Alerts and keyboard interactions
-- Defect identification and analysis
-- Manual testing practice
-- Test automation practice
+- Manual testing scenarios
+- Playwright-ready user journeys
 
-**[Visit QA Practice Lab](https://lab.hakdogan.com)**
+[Open QA Practice Lab →](https://lab.hakdogan.com)
 
 ---
 
-### ☕ Selenium Test Automation
+### ☕ Selenium + Java Automation
 
-UI test automation project using **Selenium WebDriver + Java**, **Cucumber BDD**, **JUnit**, and the **Page Object Model**.
+Automation concepts demonstrated with:
 
-Focus areas include:
-
-- UI test automation
-- Cucumber BDD scenarios
+- Selenium WebDriver
+- Java
+- Cucumber BDD
+- JUnit
+- Maven
 - Page Object Model
-- Functional and Regression testing
-- JUnit test execution
-- Maven dependency management
-- Jenkins-based Smoke and Regression test execution
+- Functional and regression testing
 
-> Add your repository link here:
-> **[View Project on GitHub](YOUR_SELENIUM_REPO_LINK)**
+[View my repositories →](https://github.com/hakdogan1)
+
+---
+
+## 🎯 Current Focus
+
+```text
+→ Building reliable Playwright automation frameworks
+→ Improving API and database testing skills
+→ Creating realistic QA practice environments
+→ Applying AI-assisted testing techniques
+→ Making test automation easier to maintain
+```
 
 ---
 
 ## 🏆 Certification
 
-**ISTQB® Foundation Level Certified**
+**ISTQB® Certified Tester - Foundation Level**
 
-[View Certification](https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-blue?logo=linkedin)](https://www.linkedin.com/in/hasanakdogan1/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-blue?logo=googlechrome)](https://www.hakdogan.com/)
-
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://hakdogan26.medium.com/)
+[View Certification →](https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e)
 
 ---
 
 ## 📊 GitHub
 
-<p align="center">
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api?username=hsnakd&show_icons=true&theme=tokyonight"
-    alt="Hasan's GitHub Stats"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hakdogan1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakdogan1&theme=transparent&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Quality • Automation • Continuous Improvement</b>
-</p>
+## 🔗 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/hakdogan1">
+  <img src="https://img.shields.io/badge/GitHub-hakdogan1-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hasanakdogan1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.hakdogan.com/">
+  <img src="https://img.shields.io/badge/Website-hakdogan.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://medium.com/@hakdogan1">
+  <img src="https://img.shields.io/badge/Medium-@hakdogan1-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Quality • Automation • Product Thinking • Continuous Improvement
+
+</div>
